@@ -37,3 +37,4 @@ C:\Users\asp\Desktop\crud\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cach
 C:\Users\asp\Desktop\crud\crud\crud\obj\Debug\crud.csproj.CopyComplete
 C:\Users\asp\Desktop\crud\crud\crud\obj\Debug\crud.exe
 C:\Users\asp\Desktop\crud\crud\crud\obj\Debug\crud.pdb
+C:\Users\asp\Desktop\crud\crud\crud\obj\Debug\crud.customer_panel.resources

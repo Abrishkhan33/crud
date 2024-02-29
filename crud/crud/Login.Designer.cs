@@ -71,6 +71,7 @@
             this.loginform.TabIndex = 17;
             this.loginform.Text = "LOGIN";
             this.loginform.UseVisualStyleBackColor = false;
+            this.loginform.Click += new System.EventHandler(this.loginform_Click);
             // 
             // USERPASSWORD
             // 

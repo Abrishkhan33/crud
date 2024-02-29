@@ -55,21 +55,21 @@ namespace crud
              
 
 
-                string insertquery = ("insert into crudd values('"+enter_username+"' , '"+enter_useremail+"' , '"+enter_password+"' ) ");
+             string insertquery = ("insert into crudd values('"+enter_username+"' , '"+enter_useremail+"' , '"+enter_password+"' ) ");
 
-                SqlCommand dlvryboy = new SqlCommand(insertquery, connectdb);
+             SqlCommand dlvryboy = new SqlCommand(insertquery, connectdb);
 
-                dlvryboy.ExecuteNonQuery();
+             dlvryboy.ExecuteNonQuery();
 
-            MessageBox.Show("data inserted!!");
+             MessageBox.Show("data inserted!!");
 
+
+
+           
             LOGIN loginform = new LOGIN();
             loginform.Show();
 
             this.Hide();
-
-
-
 
 
 
